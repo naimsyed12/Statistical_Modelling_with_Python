@@ -1,0 +1,165 @@
+latitude,longitude,available_bikes,empty_slots,name
+25.729275,-80.241581,5,11,000605 - Virginia St & Florida Ave
+25.732522,-80.233244,7,9,000606 - S Bayshor Dr & Aviation Ave
+25.7511,-80.202641,5,9,000612 - SE Brickell Ave & 25th Rd
+25.760082,-80.196217,7,9,000616 - 150 SW 15th Road
+25.761884,-80.193101,10,4,000617 - S Miami Ave & 13th Street
+25.768483,-80.190547,4,12,000618 - SE 5th Street & Brickell Ave
+25.761522,-80.1967748,5,11,000619 - 13th Street SW 2nd Ave
+25.7604,-80.19186,1,12,000620 - 14th Street & SE Brickell Ave
+25.7603626,-80.1936702,9,7,000621 - 14th St & S Miami Ave
+25.767414,-80.199166,10,6,000629 - SW 3rd Ave & 7th St
+25.765769,-80.211373,9,7,000630 - 10th Ave & SW 8th St
+25.779881,-80.218424,5,10,000631 - Marlins Park Station
+25.767497,-80.195732,9,7,000632 - 1st CT & SW 7th St
+25.76258,-80.193948,5,11,000633 - SW 12th Street & S Miami Ave
+25.76589,-80.191042,5,8,000634 - Brickell Ave & SE 8th Street (east side)
+25.771428,-80.190815,5,11,000640 - SE 2nd Ave & 4st ( James L. Knight Center)
+25.7717329,-80.1899646,12,4,000641 - Whole Foods Downtown (299 SE 3rd Ave)
+25.7725576,-80.1921467,3,13,000642 - SE 2nd St & SE 1st Ave
+25.77369,-80.18896,12,4,000667 - SE 3 Ave & North of 1 Street
+25.7733724,-80.1920071,5,4,000644 - SE 1st and SE 1st Ave
+25.7870287,-80.1939982,7,9,000649 - 13th Street & North Miami Ave
+25.7883347,-80.1932528,5,9,000650 - NE 14th Street NE Miami Place
+25.789722,-80.188952,2,14,000651 - Biscayne Blvd & NE 15th Terr
+25.78974,-80.18622,11,5,000652 - NE 15th St & Herald Plaza
+25.79274,-80.18646,10,6,000653 - N. Bayshore Dr btw NE 17th & 18th St
+25.794895,-80.188672,15,1,000654 - NE 19th St & Biscayne Blvd
+25.801,-80.18888,14,0,000656 - NE 25th St & Biscayne Blvd
+25.80533,-80.1891,5,11,000657 - NE 30th St & Biscayne Blvd
+25.7799583,-80.1955923,0,14,000660 - 600 NW 1st Ave (Brightline Station)
+25.7984785,-80.2031538,7,3,000663 - NW 5th Ave & 22 Street
+25.8022384,-80.2014196,5,3,000664 - NW 3rd Ave & 27th Terr
+25.8014206,-80.1991306,14,1,000665 - 26th St & NW 2nd Ave
+25.8025414,-80.1948694,14,0,000666 - NE 27th St & N. Miami Ave
+25.775986,-80.18865,2,9,000643 - NE 3rd Ave & 2 Street
+25.775019,-80.196429,8,8,000676 - NW 1st Street & 1st Ave
+25.747976,-80.210054,4,12,000611 - 32 Rd & South Miami Ave
+25.777171,-80.186888,13,3,000646 - NE 3 Street & Biscayne Blvd
+25.7729842,-80.1860208,5,10,000639 - Chopin Plaza & Biscayne Blvd
+25.782258,-80.189191,7,9,000647 - Biscayne Blvd & NE 8th Street
+25.784943,-80.18683,6,10,000648 - Museum Park
+25.770155,-80.198036,2,14,000675 - 444 SW 2 Ave (Miami River Side Center)
+25.755818,-80.196467,3,13,000615 - Brickell Ave & SW 18 Road
+25.765327,-80.131324,12,16,000101 - Inside South Pointe Park
+25.767379,-80.135871,13,3,000102 - Entrance to South Pointe Park
+25.769435,-80.133049,0,12,000103 - Ocean Dr & 1st Street
+25.769775,-80.13739,4,12,000105 - 1st Street & Alton Rd
+25.7711036,-80.1327318,0,16,000106 - Ocean Dr & 2nd Street
+25.770722,-80.133801,0,15,000107 - 2nd Street & Collins Ave
+25.772132,-80.138313,3,10,000109 - Michigan Ave & 3rd Street
+25.773511,-80.139686,4,12,000111 - 4th Street & Alton Rd
+25.772677,-80.134644,3,13,000112 - Washington Ave & 3rd Street
+25.774917,-80.131584,4,22,000114 - Ocean Dr & 5th Street
+25.77679,-80.130943,2,28,000116 - Ocean Dr & 7th Street
+25.779172,-80.130828,3,29,000117 - Ocean Dr & 9th Street
+25.780759,-80.129913,17,19,000118 - Ocean Dr and 10th Street (Art Deco Welcome Center)
+25.78247,-80.129882,10,13,000119 - Ocean Dr and 12th Street
+25.785034,-80.129455,9,9,000121 - Ocean Dr at 14th Street
+25.7874891,-80.12955,1,15,000122 - Ocean Dr & 15th Street
+25.776876,-80.133941,5,18,000123 - Washington Ave & 7th Street
+25.777061,-80.133155,4,12,000124 - 7th Street Parking Garage
+25.77581,-80.135887,6,10,000126 - Meridian Ave & 6th St
+25.775684,-80.137184,1,15,000127 - Jefferson Ave & 6th Street
+25.774795,-80.13842,2,14,000128 - Michigan Ave & 5th Street
+25.776039,-80.139648,0,16,000129 - Lenox Ave & 6th Street
+25.779273,-80.140007,7,9,000132 - 9th Street & Lenox Ave
+25.779413,-80.136161,9,7,000133 - 9th Street & Meridian Ave
+25.778413,-80.137229,7,9,000134 - 8th Street & Jefferson Ave
+25.77947,-80.133392,3,13,000136 - 9th Street & Washington Ave
+25.781921,-80.133056,5,7,000138 - 11th Street & Washington Ave
+25.780853,-80.142166,10,6,000139 - West Ave & 10th Street (Whole Foods)
+25.782184,-80.137565,4,12,000141 - Jefferson Ave & 11th Street (Flamingo Park)
+25.782022,-80.140846,6,10,000142 - Alton Rd at 11th Street (Flamingo Park)
+25.782745,-80.142005,10,6,000143 - 12th Street & West Ave
+25.783657,-80.136329,1,15,000144 - Meridian Ave & 13th Street (Flamingo Park)
+25.784238,-80.134101,10,6,000146 - Pennsylvania Ave & 13th Street
+25.784225,-80.132476,13,3,000147 - Washington & 13th Street
+25.784078,-80.130798,4,12,000148 - 13th Steet & Collins Ave
+25.785306,-80.130966,2,10,000149 - 14th Street & Collins Ave
+25.786483,-80.138603,1,27,000151 - Michigan Ave & 14th Street
+25.785114,-80.142562,1,16,000152 - 14th Street & West Ave
+25.7851581,-80.1432309,0,14,000153 - 14th Street & Bay Road
+25.787059,-80.143547,13,17,000154 - Bay Rd & 15th Street
+25.788892,-80.143356,12,6,000156 - 16th Street & Bay Rd
+25.787298,-80.140754,3,12,000157 - 15th Street & Alton Rd
+25.787494,-80.135314,6,10,000158 - Euclid & 15th Street
+25.787603,-80.132049,0,16,000159 - 15th Street & Washington Ave
+25.787584,-80.130134,11,5,000161 - 15th Street & Collins Ave
+25.788726,-80.134193,12,4,000162 - Pennsylvania Ave & 16th Street
+25.790662,-80.131034,1,18,000163 - Lincoln Rd & James Ave (CVS Pharmacy)
+25.792726,-80.132148,7,9,000164 - Washington Ave & 17th Street (The Fillmore)
+25.790084,-80.133186,0,16,000166 - Drexel Ave & Lincoln Rd (MB Community Church)
+25.790149,-80.134376,1,15,000167 - Pennsylvania Ave & Lincoln Rd (H & M)
+25.789955,-80.135398,4,8,000168 - Euclid Ave & Lincoln Lane (Oribe Salon)
+25.791498,-80.136695,0,16,000169 - Meridian Ave & Lincoln Lane (Macy's)
+25.791154,-80.137748,1,15,000171 - Jefferson Ave & Lincoln Rd (DogBar)
+25.790727,-80.138923,5,11,000172 - Michigan Ave & Lincoln Rd (The Gap)
+25.7917516,-80.1400728,0,16,000173 - Lenox Ave & Lincoln Rd (YardHouse)
+25.79034,-80.142303,3,13,000174 - Lincoln Road & West Ave
+25.791421,-80.148155,6,17,000176 - Venetian Causeway & Island Ave (The Standard Hotel
+25.793401,-80.1444,11,3,000177 - Purdy Ave & 18th Street (Marina)
+25.792573,-80.134979,2,14,000178 - 17th Street & Convention Center Dr (City Hall)
+25.794751,-80.135571,6,11,000179 - 19 St & Convention Center Dr
+25.792316,-80.129287,2,12,000181 - 17th Street & Collins Ave
+25.794,-80.129013,3,13,000182 - 18th Street & Collins Ave
+25.798194,-80.131951,1,15,000183 - Washington Ave & 22 St ( Washington Ct)
+25.794822,-80.139358,6,10,000184 - 19th Street & Dade Blvd (Publix)
+25.795501,-80.142951,1,15,000187 - West Ave & 20th Street (Publix on the Bay)
+25.79523,-80.14138,0,16,000188 - Sunset Dr & 20th Street
+25.796314,-80.128517,1,15,000201 - 21st Street & Collins Ave
+25.7968314,-80.1274238,3,13,000202 - Miami Beach Dr & 22 Street (In parking Lot)
+25.798538,-80.128341,3,10,000203 - 23rd Street & Collins Ave (Walgreens)
+25.800083,-80.127029,1,7,000205 - 24th and Collins Ave
+25.80087,-80.125602,10,6,000206 - 25th Street & Collins Ave
+25.802289,-80.125915,5,11,000207 - 26th Street & Collins Ave
+25.803857,-80.129386,3,9,000208 - 26th Street & Pine Tree Dr
+25.806837,-80.125183,13,3,000210 - 31st Street & Collins Ave
+25.809047,-80.123458,6,10,000211 - 35th Street & Collins Ave
+25.812503,-80.123367,9,7,000212 - 40th Street & Collins Ave
+25.814342,-80.129203,2,14,000214 - Royal Palm Ave Between 41St & 42St
+25.81215,-80.135475,7,3,000216 - 39th Street & Alton Rd
+25.816658,-80.130546,2,14,000218 - Prarie Between Chase & 44 Terr
+25.816011,-80.123664,5,17,000220 - Collins Ave & 44th Street (Fountainbleau Hotel)
+25.820867,-80.122314,4,32,000221 - 46th Street & Collins Ave (Parking Lot)
+25.830375,-80.122238,14,2,000302 - Collins Ave & 5300 Block
+25.84666,-80.12078,10,5,000304 - 64th Street & Collins Ave (parking lot)
+25.85069,-80.120628,4,8,000305 - 67th Street & Collins Ave
+25.854211,-80.120712,5,11,000306 - 69th Street & Collins Ave (Publix)
+25.8558358,-80.1232378,0,16,000308 - 71st Street & Byron Ave
+25.852079,-80.13755,11,3,000311 - Trouville Esplanade & Normandy Dr
+25.857971,-80.125305,3,5,000313 - 73rd Street & Dickens Ave
+25.858234,-80.121002,6,10,000314 - Collins Ave & 73rd Street
+25.861253,-80.120704,2,14,000315 - 76th Street & Collins Ave
+25.8642,-80.121223,1,15,000316 - 79th Street & Collins Ave
+25.873098,-80.122093,4,12,000401 - 88th Street & Harding Ave
+25.88108,-80.122207,11,5,000402 - Collins Ave & 93rd Street
+25.8834214,-80.123717,8,0,000403 - 94th Street & Harding Ave (Publix)
+25.8871218,-80.1219757,6,5,000405 - 96th Street (Entrance to beach)
+25.887449,-80.133323,3,21,000501 - W Bay Harbor Dr & 97th Street
+25.893302,-80.132423,7,9,000502 - 103rd Street btw W and E Bay Harbor Dr
+25.777514,-80.133384,1,0,000003 - Demo Store
+25.790462,-80.143982,4,10,000175 - Lincoln Rd & Bay Rd
+25.854495,-80.132502,3,13,000310 - Rue Notre Dame & 71 Street
+25.734206,-80.230671,10,6,000610 - S. Bayshore Dr btw Treasure Trove Ln & Kirk St
+25.730382,-80.235583,8,8,000609 - Charthouse Dr & S. Bayshore Dr
+25.835972,-80.184035,7,9,000680 - Biscayne Blvd NE 65th Street
+25.8135937,-80.1316858,4,12,000215 - Chase Ave Between 40st & 41st
+25.8202417,-80.1876939,9,7,000677 - Biscayne Blvd NE 48 Street
+25.827261,-80.186922,5,11,000678 - Biscayne Blvd NE 55th Ter
+25.813662,-80.189196,8,4,000658 - NE 39th Street & Biscayne Blvd
+25.7797147,-80.1890455,7,3,000645 - Biscayne Blvd btw NE 5th & 6th street
+25.7653626,-80.1949821,1,15,000626 - SW 9th Street & SW 1st Ave
+25.7674054,-80.1920305,6,2,000623 - Brickell City Center (8th Street Metro-Mover Stop)
+25.8074771,-80.1951626,10,2,000659 - 33rd Street & North Miami Ave.
+25.814942,-80.19159,0,9,000673 - NE 2nd Ave & NE 42nd Street
+25.8409532,-80.1839999,6,4,000683 - 72nd Street & Biscayne Blvd
+25.8033602,-80.1920503,8,4,000670 - 148 NE 28th Street
+25.8047295,-80.1246196,1,15,000209 - 29th & Collins (Edition Hotel)
+25.8561371,-80.1447683,3,7,000312 - 1102 Biarritz Dr (Normandy Shores Tennis Court)
+25.7910019,-80.1424965,0,16,000170 - 1666 West Avenue
+25.7851991,-80.140549,0,15,000145 - 14th & Alton
+25.7975825,-80.132518,3,13,000199 - Washington Ave & Dade Blvd
+25.77613,-80.19422,6,0,000674 - 48 NW 2nd Street
+25.77662,-80.14191,15,9,000130 - West Ave 6-7 St (Canopy Park)
+25.7926049,-80.1936645,0,0,000002 - DEMO - Deco Bike Warehouse
