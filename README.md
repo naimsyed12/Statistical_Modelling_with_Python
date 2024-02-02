@@ -53,4 +53,4 @@ Rate Limits
 
 
 ## Future Goals
-Build a classification model that predicts if a bike station is likely to be fully used (percentage) based on how many POIs. Would be a better model because bike stations get to 
+Build a classification model that predicts if a bike station is likely to be fully used (percentage) based on how many POIs. 
